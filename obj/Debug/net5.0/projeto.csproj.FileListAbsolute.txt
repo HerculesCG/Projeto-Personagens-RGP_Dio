@@ -1,0 +1,16 @@
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.exe
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.deps.json
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.runtimeconfig.json
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.runtimeconfig.dev.json
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.dll
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\ref\projeto.dll
+C:\Users\hercules.goncalves\projeto\bin\Debug\net5.0\projeto.pdb
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.csproj.AssemblyReference.cache
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.AssemblyInfoInputs.cache
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.AssemblyInfo.cs
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.dll
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\ref\projeto.dll
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.pdb
+C:\Users\hercules.goncalves\projeto\obj\Debug\net5.0\projeto.genruntimeconfig.cache
